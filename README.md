@@ -11,5 +11,6 @@
 ### Contact
 ```sparkfire298@sparkfire298.xyz```
 
-### Widgets for anything lol
+### Widgets
 ![Discord Bots](https://top.gg/api/widget/757780137449226272.svg)
+![](https://komarev.com/ghpvc/?username=sparkfire298)
