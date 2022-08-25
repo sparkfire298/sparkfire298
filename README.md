@@ -1,18 +1,19 @@
-# Hello world
+# s p a r k f i r e  2  9  8
 
 ![](https://komarev.com/ghpvc/?username=sparkfire298&style=flat-square&label=Profile+views&color=7289da)
 
 
-### Stuff I do:
-- Lead developer of [sparkfirebot](https://sparkfire298.xyz/invite)
-- Make music (kind of)
-- Play video games
+### Lead developer of [sparkfirebot](https://sparkfire298.xyz/invite)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/683100147512770602?idleMessage=Idle)](https://discord.com/users/683100147512770602)
 
 
+What I'm doing right now on Discord ^^^^^^^
+
+
 ### Contact:
-sparkfire298@sparkfire298.xyz
+Twitter: [@sparkfire298](https://twitter.com/sparkfire298)
+Email: hello@sparkfire298.com
 
 
 [![Sparkfire298's github stats](https://github-readme-stats.vercel.app/api?username=sparkfire298&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
