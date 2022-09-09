@@ -8,8 +8,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/683100147512770602?idleMessage=Idle)](https://discord.com/users/683100147512770602)
 
 
-What I'm doing right now on Discord ^^^^^^^
-
 
 ### Contact:
 Twitter: [@sparkfire298](https://twitter.com/sparkfire298)
@@ -19,3 +17,5 @@ Email: hello@sparkfire298.com
 [![Sparkfire298's github stats](https://github-readme-stats.vercel.app/api?username=sparkfire298&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Sparkfire298's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparkfire298&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tz70rtx0z9gleo6dbo88jjsk0&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
