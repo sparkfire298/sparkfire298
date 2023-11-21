@@ -11,14 +11,18 @@ Hello, I'm sparkfire298! I am a passionate software developer with a focus on Ja
 
 Here are some of the projects I have worked on:
 
-- sp-discord-bot: A Discord bot built with JavaScript that provides various functionalities for server management and moderation.
-- hastebot: A JavaScript bot that automates the process of creating and sharing code snippets using the HasteBin service.
+- [sp-discord-bot](https://github.com/sparkfire298/sp-discord-bot): A Discord bot built with JavaScript that provides various functionalities for server management and moderation.
+- [hastebot](https://github.com/sparkfire298/hastebot): A JavaScript bot that automates the process of creating and sharing code snippets using the HasteBin service.
 
 ## Contact
 
-Feel free to reach out to me via email at me@sparkfire298.xyz.
+Feel free to reach out to me via email at **me@sparkfire298.xyz**.
 
 I am always open to new opportunities and collaborations. Let's create something amazing together!
 
+## Website
 
-*This was AI-generated with Copilot lmao*
+You can visit my website at [https://sparkfire298.xyz](https://sparkfire298.xyz) to learn more about me and my work.
+
+
+*This was mainly AI-generated with [Copilot](https://github.com/features/copilot) lmao (just experimenting)*
