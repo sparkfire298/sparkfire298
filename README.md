@@ -8,3 +8,5 @@ Feel free to shoot me an email at [me@sparkfire298.xyz](mailto:me@sparkfire298.x
 I host my things on a [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-w/). [Headlessly](https://en.wikipedia.org/wiki/Headless_computer), of course.
 
 Formerly used a repurposed [Acer Travelmate B](https://en.wikipedia.org/wiki/Acer_TravelMate#TravelMate_Spin_B1) to host things. Lol
+
+**sparkfire298.xyz** and **spfr.me** are both hosted on Neocities (supporter)
