@@ -10,3 +10,5 @@ I host my things on a [Raspberry Pi Zero W](https://www.raspberrypi.com/products
 Formerly used a repurposed [Acer Travelmate B](https://en.wikipedia.org/wiki/Acer_TravelMate#TravelMate_Spin_B1) to host things. Lol
 
 **sparkfire298.xyz** and **spfr.me** are both hosted on Neocities (supporter)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1045917091368271872)](https://spfr.me/status)
